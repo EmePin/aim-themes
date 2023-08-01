@@ -17,7 +17,7 @@
         "path": "./themes/kaisa-dark-color-theme.json"
       },
       {
-        "label": "Aim-ack-and-Lima🍋",
+        "label": "Aim-hack-and-Lima🍋",
         "uiTheme": "vs-dark",
         "path": "./themes/hack-and-lima-fork-color-theme.json"
       },{
@@ -43,7 +43,7 @@
   "icon": "imagenes/icon.jpg",
   "author": {
     "email": "emeadventure77@gmail.com",
-    "name": "Aimée Pineda",
+    "name": "Aimee Pineda",
     "url": "https://www.linkedin.com/in/jahda%C3%AD-p-93aa091b5/"
   },
   "repository": {
