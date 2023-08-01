@@ -2,7 +2,7 @@
   "name": "aim-themes",
   "displayName": "Aim Themes",
   "description": "Aim Themes is a collection of all my favorite themes I've created and others I've found in Visual Studio Code with a few modifications.",
-  "version": "0.0.1",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -12,10 +12,44 @@
   "contributes": {
     "themes": [
       {
-        "label": "Aim Themes",
+        "label": "Aim-kai🌙",
         "uiTheme": "vs-dark",
-        "path": "./themes/Aim Themes-color-theme.json"
+        "path": "./themes/kaisa-dark-color-theme.json"
+      },
+      {
+        "label": "Aim-ack-and-Lima🍋",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hack-and-lima-fork-color-theme.json"
+      },{
+        "label": "Aim-kai☀️",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaisa-ligth-color-theme.json"
+      },{
+        "label": "Aim-Windows98🪟",
+        "uiTheme": "vs-dark",
+        "path": "./themes/windows-98-fork-color-theme.json"
+      },{
+        "label": "Aim-Joyful😄",
+        "uiTheme": "vs-dark",
+        "path": "./themes/joy-fork-color-theme.json"
+      },{
+        "label": "Aim-Fav❤️",
+        "uiTheme": "vs-dark",
+        "path": "./themes/D.Va-fork-color-theme.json"
       }
+
     ]
-  }
+  },
+  "icon": "imagenes/icon.jpg",
+  "author": {
+    "email": "emeadventure77@gmail.com",
+    "name": "Aimée Pineda",
+    "url": "https://www.linkedin.com/in/jahda%C3%AD-p-93aa091b5/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmePin/aim-themes.git"
+  },
+  "publisher": "EmeAim",
+  "keywords": ["eme", "dark", "aim","light", "theme", "vscode","aimee", "ai"]
 }
