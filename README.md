@@ -210,8 +210,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/EmePin/aim-t
  
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
--   [Choose an Open Source License](https://choosealicense.com)
--   [Img Shields](https://github.com/alexandresanlim/Badges4-README.md-Profile#-artificial-intelligence-)
+-   [Theme Studio for VS Code](https://themes.vscode.one/)
+-   [CodiGo Powered By Tecsup](https://www.youtube.com/watch?v=CEeERriZqmQ&t=780s)
 -   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
